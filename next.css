@@ -1,0 +1,35 @@
+body{
+    background-image: url(images/back.jpg);
+    background-repeat: no-repeat;
+    background-size:half;
+}
+.cont1{
+    display: flex;
+    justify-content: end;
+    align-items: left;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: lightgreen;
+
+}
+.cont2{
+    display: flex;
+    justify-content:end;
+    align-items: left;
+    text-align: left;
+    font-size: 16px;
+    
+    
+}
+.head4{
+    margin-left: -80px;
+}
+.cont3{
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    text-align: center;
+    font-size: 22px;
+}
